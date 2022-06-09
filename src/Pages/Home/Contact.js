@@ -19,7 +19,7 @@ const Contact = () => {
 
     return (
 
-        <section>
+        <section className=' min-h-full'>
             <h1 className='text-4xl text-center py-4'>Leave A Message For Me</h1>
             <div className='grid lg:grid-cols-2 items-top justify-center gap-6'>
                 <div>

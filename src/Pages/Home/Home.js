@@ -1,6 +1,7 @@
 import React from 'react';
 import About from './About';
 import Contact from './Contact';
+import Footer from './Footer';
 import Hero from './Hero';
 import Navbar from './Navbar';
 
@@ -11,7 +12,7 @@ const Home = () => {
             <Hero></Hero>
             <About></About>
             <Contact></Contact>
-
+            <Footer></Footer>
         </div>
     );
 };
