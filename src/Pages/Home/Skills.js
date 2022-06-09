@@ -23,7 +23,7 @@ const Skills = () => {
     };
 
     return (
-        <div className='my-10'>
+        <div className='row lg:mt-36 md:mt-20 sm:mt-109 xs:mt-6 px-4'>
             <h1 className='text-4xl text-left py-4 '>Skill Set</h1>
             <SkillBar skills={skills} colors={colors} />
         </div>
