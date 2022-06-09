@@ -1,22 +1,32 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "ROCK TYRE WEBSITE",
+        "description": "Any user can login and add product to their bag.Admin and Normal user has two different route to access the site. User can add review and that shows on home page",
         "img": "https://i.ibb.co/LkhzgpQ/screencapture-rock-tyre-web-app-2022-06-09-15-53-51.png",
         "technology": "ReactJS, MongoDB, Firebase, ExpressJS, NodeJS, Tailwind, EmailJS",
-        "link": "https://fridge-bd.web.app"
+        "live_link": "https://rock-tyre.web.app",
+        "client_side": "https://github.com/mdmehedihasan/rock-tyre-client-side",
+        "server_side": "https://github.com/mdmehedihasan/rock-tyre-server-side"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "name": "FRIDGE BD WEBSITE",
+        "description": "Fridge stock and management system.Admin can visit and update the stock.New added products show on the home page automatically.Sign up with google or email password",
+        "img": "https://i.ibb.co/4JTdJfq/fridge-bd.png",
+        "technology": "ReactJS, MongoDB, Firebase, ExpressJS, NodeJS, Tailwind, EmailJS",
+        "live_link": "https://rock-tyre.web.app/",
+        "client_side": "https://github.com/mdmehedihasan/rock-tyre-client-side",
+        "server_side": "https://github.com/mdmehedihasan/rock-tyre-server-side"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "name": "THE TOUR BEES SITE",
+        "description": "User can Sign up with google and email password. User can not go to checkout unless login. Automatic toggle for logged in user to see logout on top. Email verification.",
+        "img": "https://i.ibb.co/ZRj20SL/tour-bees.png",
+        "technology": "ReactJS, MongoDB, Firebase, ExpressJS, NodeJS, Tailwind, EmailJS",
+        "live_link": "https://the-tour-bees-cdf1c.web.app/",
+        "client_side": "https://github.com/mdmehedihasan/the-tour-bees-site",
+        "server_side": "https://github.com/mdmehedihasan/the-tour-bees-site"
     }
 ]
