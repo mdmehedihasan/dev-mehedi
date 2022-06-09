@@ -11,7 +11,7 @@ const Projects = () => {
     }, [])
     return (
         <div>
-            <div className='row lg:mt-36 md:mt-20 sm:mt-109 xs:mt-6 px-4'>
+            <div className='row lg:mt-36 md:mt-20 sm:mt-109 xs:mt-6 px-4' id='work'>
                 <h1 className='text-4xl text-left pb-10'>My Projects</h1>
             </div>
             <div className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-10'>

@@ -19,7 +19,7 @@ const Contact = () => {
 
     return (
         <section className=' min-h-full row lg:mt-36 md:mt-20 sm:mt-109 xs:mt-6 px-4'>
-            <h1 className='text-4xl text-left pb-10'>Leave A Message For Me</h1>
+            <h1 className='text-4xl text-left pb-10' id='contact'>Leave A Message For Me</h1>
             <div className='grid lg:grid-cols-2 items-top justify-center gap-6'>
                 <div>
                     <p className='text-2xl font-semi-bold text-left pb-4'>If you want to know more about anything. You can contact with me. You can also give me opinion about my page. My inbox is always open for you. I will try my best to reply all of your message</p>
