@@ -12,7 +12,7 @@
     {
         "id": 2,
         "name": "FRIDGE BD WEBSITE",
-        "description": "Fridge stock and management system.Admin can visit and update the stock.New added products show on the home page automatically.Sign up with google or email password",
+        "description": "Fridge stock and management system.Admin can visit and update the stock.New added products show on the home page automatically.Google & email,pass Sign in ",
         "img": "https://i.ibb.co/4JTdJfq/fridge-bd.png",
         "technology": "ReactJS, MongoDB, Firebase, ExpressJS, NodeJS, Tailwind, EmailJS",
         "live_link": "https://rock-tyre.web.app/",
