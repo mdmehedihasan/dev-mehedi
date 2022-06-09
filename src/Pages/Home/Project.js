@@ -6,14 +6,13 @@ const Project = ({ project }) => {
     const { live_link, name, img, description, technology, client_side, server_side } = project;
     return (
 
-        <div>
-            <div>
-                <div style={{ backgroundImage: `url(${img})` }} className='img'>
-                    <a href={live_link} class="btn-visit">Visit</a>
+        <div className='flex flex-col items-center justify-center'>
+            <div style={{ backgroundImage: `url(${img})` }} className='img'>
+                <a href={live_link} class="btn-visit">Visit</a>
 
-                </div>
             </div>
-            <div className='bg-slate-100 p-2'>
+
+            <div className=' p-2'>
                 <div className='flex items-center justify-center'>
                     <div className='p-2 text-3xl'>
                         <a href={client_side}> <FaGithub /> </a>
