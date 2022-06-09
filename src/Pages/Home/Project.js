@@ -6,7 +6,7 @@ const Project = ({ project }) => {
     const { live_link, name, img, description, technology, client_side, server_side } = project;
     return (
 
-        <div className='px-4'>
+        <div>
             <div>
                 <div style={{ backgroundImage: `url(${img})` }} className='img'>
                     <a href={live_link} class="btn-visit">Visit</a>

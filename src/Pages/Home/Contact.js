@@ -18,16 +18,15 @@ const Contact = () => {
     };
 
     return (
-
-        <section className=' min-h-full'>
-            <h1 className='text-4xl text-center py-4'>Leave A Message For Me</h1>
+        <section className=' min-h-full row lg:mt-36 md:mt-20 sm:mt-109 xs:mt-6 px-4'>
+            <h1 className='text-4xl text-left pb-10'>Leave A Message For Me</h1>
             <div className='grid lg:grid-cols-2 items-top justify-center gap-6'>
                 <div>
-                    <p className='text-2xl font-semi-bold text-left'>If you want to know more about anything. You can contact with me. You can also give me opinion about my page. My inbox is always open for you. I will try my best to reply all of your message</p>
+                    <p className='text-2xl font-semi-bold text-left pb-4'>If you want to know more about anything. You can contact with me. You can also give me opinion about my page. My inbox is always open for you. I will try my best to reply all of your message</p>
 
                     <div className='flex items-center justify-left text-xl pt-2 '>
                         <label className='pr-2'><FaMapMarked /></label>
-                        <p>MOhammadpur, Dhaka , Bangladesh</p>
+                        <p>Mohammadpur, Dhaka , Bangladesh</p>
                     </div>
                     <div className='flex items-center justify-left text-xl '>
                         <label className='pr-2'><FaEnvelope /></label>
