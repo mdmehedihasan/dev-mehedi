@@ -25,7 +25,7 @@ const Contact = () => {
                 <div>
                     <p className='text-2xl font-semi-bold text-left'>If you want to know more about anything. You can contact with me. You can also give me opinion about my page. My inbox is always open for you. I will try my best to reply all of your message</p>
 
-                    <div className='flex items-center justify-left text-xl '>
+                    <div className='flex items-center justify-left text-xl pt-2 '>
                         <label className='pr-2'><FaMapMarked /></label>
                         <p>MOhammadpur, Dhaka , Bangladesh</p>
                     </div>

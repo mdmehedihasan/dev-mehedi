@@ -28,7 +28,9 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div class="navbar-end">
-                    <a class="btn bg-opacity-0 text-black hover:bg-slate-400 font-bold text-xl">Resume</a>
+                    <a className='btn bg-opacity-0 text-black hover:bg-slate-400 font-bold text-xl' href="/src/assets/Mehedi Hasan Resume Mern Stack Developer.pdf" download>RESUME</a>
+
+
                 </div>
             </div>
         </div>
