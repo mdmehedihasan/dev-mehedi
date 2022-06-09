@@ -7,7 +7,7 @@ const About = () => {
 
             <div className='bg-base-300 p-12 min-h-full'>
                 <h1 className='text-4xl text-left pb-4'>About Me</h1>
-                <div className='grid grid-cols-2 gap-10 items-center justify-center '>
+                <div className='grid lg:grid-cols-2 gap-10 items-center justify-center '>
                     <div>
                         <div>
                             <img className='object-right' src="https://rock-tyre.web.app/static/media/profile-1.0eab64be881f4976d04f.png" alt='name' />
