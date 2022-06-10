@@ -22,7 +22,7 @@ const Project = ({ project }) => {
                             <a href={server_side}> <FaGithub /> </a>
                         </div>
                     </div>
-                    <h2 className='text-2xl font-semibold'>{name}</h2>
+                    <h2 className='text-2xl font-semibold text-sobuj'>{name}</h2>
                     <p className='text-xl text-justify py-4'>{description}</p>
                     <p className='text-xl font-semibold text-justify py-4'>{technology}</p>
                 </div>

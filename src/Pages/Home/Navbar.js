@@ -21,7 +21,7 @@ const Navbar = () => {
                             {menuItem}
                         </ul>
                     </div>
-                    <a class="btn btn-ghost normal-case text-2xl font-bold text-blue-700" >DEV MEHEDI</a>
+                    <a class="btn btn-ghost normal-case text-2xl font-bold text-sobuj" >DEV MEHEDI</a>
                 </div>
                 <div class="navbar-center hidden lg:flex z-[100]">
                     <ul class="menu menu-horizontal p-0">
@@ -29,7 +29,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div class="navbar-end">
-                    <a className='btn bg-opacity-0 text-black hover:bg-slate-400 font-bold text-xl' href="/src/assets/Mehedi Hasan Resume Mern Stack Developer.pdf" download>RESUME</a>
+                    <a className='btn bg-sobuj text-black hover:bg-green-400 font-bold text-xl' href="https://drive.google.com/file/d/1NdO47_mED-rE6YgezukCo7STqJrsWkb-/view?usp=sharing" target='_blank' download>RESUME</a>
 
 
                 </div>
