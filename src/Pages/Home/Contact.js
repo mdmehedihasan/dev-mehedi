@@ -25,15 +25,15 @@ const Contact = () => {
                     <p className='text-2xl font-semi-bold text-left pb-4'>If you want to know more about anything. You can contact with me. You can also give me opinion about my page. My inbox is always open for you. I will try my best to reply all of your message</p>
 
                     <div className='flex items-center justify-left text-xl pt-2 '>
-                        <label className='pr-2'><FaMapMarked /></label>
+                        <label className='pr-2 text-sobuj'><FaMapMarked /></label>
                         <p>Mohammadpur, Dhaka , Bangladesh</p>
                     </div>
                     <div className='flex items-center justify-left text-xl '>
-                        <label className='pr-2'><FaEnvelope /></label>
+                        <label className='pr-2 text-sobuj'><FaEnvelope /></label>
                         <p>mehedicsebu@gmail.com</p>
                     </div>
                     <div className='flex items-center justify-left text-xl '>
-                        <label className='pr-2'><FaPhone /></label>
+                        <label className='pr-2 text-sobuj'><FaPhone /></label>
                         <p>+880 1742851587</p>
                     </div>
 
