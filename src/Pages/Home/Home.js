@@ -6,6 +6,7 @@ import Hero from './Hero';
 import Navbar from './Navbar';
 import Projects from './Projects';
 import Skills from './Skills';
+import SocialLinks from './SocialLinks';
 
 const Home = () => {
     return (
@@ -16,6 +17,7 @@ const Home = () => {
             <Projects></Projects>
             <Skills></Skills>
             <Contact></Contact>
+            <SocialLinks></SocialLinks>
             <Footer></Footer>
         </div>
     );
